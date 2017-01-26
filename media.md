@@ -1,3 +1,6 @@
+## General Info
+* [GameBoy Camera at Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Camera)
+
 ## Social Media
 
 * [Instagram : gameboycameraman](https://www.instagram.com/gameboycameraman/)
