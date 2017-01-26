@@ -1,4 +1,4 @@
-## GameBoy Camera : Social Media
+## Social Media
 
 [Instagram : gameboycameraman](https://www.instagram.com/gameboycameraman/)
 
