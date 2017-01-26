@@ -2,6 +2,4 @@ The GameBoy Camera is a 4 bit greyscale camera made by Nintendo in 1998. Until r
 
 The GameBoy Camera gives you a different way of looking at the world…distilling it down to shapes and shading and showing the essence of the image. I hope you find this information useful.
 
-[GameBoy Camera at Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Camera)
-
 [Media](media)
