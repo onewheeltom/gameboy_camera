@@ -6,4 +6,5 @@
 
 ## Articles
 * [BitBOY : Rescue your GameBoy Camera Pictures (2015)](http://popgeeks.net/rescue-your-game-boy-camera-pictures-with-the-bitboy/)
-[Inside the Greatest Game Gadget That Never Was – USGamer (2015)](http://www.usgamer.net/articles/inside-the-greatest-game-gadget-that-never-was)
+* [Inside the Greatest Game Gadget That Never Was – USGamer (2015)](http://www.usgamer.net/articles/inside-the-greatest-game-gadget-that-never-was)
+* [The Greatest Game Gadget That Never Was Gets Better – USGamer (2015)](http://www.usgamer.net/articles/the-greatest-game-gadget-that-never-was-gets-even-better#comments)
