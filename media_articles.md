@@ -1,0 +1,9 @@
+## Social Media
+
+* [Instagram : gameboycameraman](https://www.instagram.com/gameboycameraman/)
+* [Instagram : mt_gameboycamera](https://www.instagram.com/mr_gameboycamera/)
+* [Notey.com : GameBoy Camera Blogs](http://www.notey.com/blogs/game-boy-camera)
+
+## Articles
+* [BitBOY : Rescue your GameBoy Camera Pictures (2015)](http://popgeeks.net/rescue-your-game-boy-camera-pictures-with-the-bitboy/)
+[Inside the Greatest Game Gadget That Never Was – USGamer (2015)](http://www.usgamer.net/articles/inside-the-greatest-game-gadget-that-never-was)
