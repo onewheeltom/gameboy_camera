@@ -4,4 +4,4 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 
 [GameBoy Camera at Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Camera)
 
-[Social Media](social-media.md)
+[Social Media](social-media)
