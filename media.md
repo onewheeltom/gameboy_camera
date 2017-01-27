@@ -5,13 +5,6 @@
 * [GameBoy Camera cartridge protocol reversed,  all photos dumped (2016)](http://hackaday.com/2016/03/08/game-boy-camera-cartridge-reversed-photos-dumped)
 * [Differences between Japanese and American GBC](https://tcrf.net/Game_Boy_Camera/Regional_Differences)
 
-## Social Media
-
-* [Instagram : gameboycameraman](https://www.instagram.com/gameboycameraman/)
-* [Instagram : mt_gameboycamera](https://www.instagram.com/mr_gameboycamera/)
-* [Notey.com : GameBoy Camera Blogs](http://www.notey.com/blogs/game-boy-camera)
-* [YouTube.com : GameBoy Camera TV Commercial](https://www.youtube.com/watch?v=b8moy4nDUeg&feature=youtu.be)
-
 ## Articles
 * [BitBOY : Rescue your GameBoy Camera Pictures (2015)](http://popgeeks.net/rescue-your-game-boy-camera-pictures-with-the-bitboy/)
 * [Inside the Greatest Game Gadget That Never Was – USGamer (2015)](http://www.usgamer.net/articles/inside-the-greatest-game-gadget-that-never-was)
