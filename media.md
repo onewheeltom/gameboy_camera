@@ -11,6 +11,7 @@
 
 ## Articles
 * [BitBOY : Rescue your GameBoy Camera Pictures (2015)](http://popgeeks.net/rescue-your-game-boy-camera-pictures-with-the-bitboy/)
+* [Hacking the Dead - Romi Nicole Schneider](http://www.rominicoleschneider.com/hacking-the-dead.html)
 * [Inside the Greatest Game Gadget That Never Was – USGamer (2015)](http://www.usgamer.net/articles/inside-the-greatest-game-gadget-that-never-was)
 * [The Greatest Game Gadget That Never Was Gets Better – USGamer (2015)](http://www.usgamer.net/articles/the-greatest-game-gadget-that-never-was-gets-even-better#comments)
 * [GameBoy Camera Makes For A Whole New Kind Of Street Photography – Kotaku (2014)](http://kotaku.com/game-boy-camera-makes-for-a-whole-new-kind-of-street-ph-1575668236)
