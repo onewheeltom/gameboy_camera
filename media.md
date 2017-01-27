@@ -1,3 +1,5 @@
+# Media
+
 ## General Info
 * [GameBoy Camera at Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Camera)
 * [GBC Funtography Guide (scanned PDF)](http://www.mediafire.com/view/lyk0co0l4bwq2ld/Nintendo_Funtography_Guide.pdf)
