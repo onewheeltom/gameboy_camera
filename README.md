@@ -34,6 +34,8 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 * [High Hopes for Lo Fi Photos – New York Times (2014)](http://lens.blogs.nytimes.com/2014/11/11/high-hopes-for-lo-fi-photos/)
 * [Long Lost GameBoy Camera Photos of New York (2014)](http://thecreatorsproject.vice.com/blog/long-lost-game-boy-camera-photos)
 * [Camera of the Month (2001)](http://www.cameraofthemonth.com/articles/NintendoGameboyCamera.shtml)
+
+# Software
 * [GameBoy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
 * [Retrospecs (iOS)](https://itunes.apple.com/us/app/retrospecs-retro-computing/id887031094?mt=8)
 * [BitCam (iOS)](https://itunes.apple.com/us/app/bitcam/id1114990619?mt=8)
