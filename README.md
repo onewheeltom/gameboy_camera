@@ -19,6 +19,7 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 
 # Media - General Info
 * [GameBoy Camera at Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Camera)
+* [BitBoy Manual](http://gameboyphoto.com/gameboyphoto/gameboy_process_resources_files/BitBoy_Manual_V6-3.pdf)
 * [GBC Funtography Guide (scanned PDF)](http://www.mediafire.com/view/lyk0co0l4bwq2ld/Nintendo_Funtography_Guide.pdf)
 * [Idiot’s Guide to Funtography](http://www.dmgice.com/rules/camidiot.htm)
 * [GameBoy Camera cartridge protocol reversed,  all photos dumped (2016)](http://hackaday.com/2016/03/08/game-boy-camera-cartridge-reversed-photos-dumped)
@@ -42,7 +43,7 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
  	[giibiiadvance - GB/GBC/GBA emulator with GB Camera support (Linux, Windows)](https://github.com/AntonioND/giibiiadvance)
 * [Xn Convert - Open source batch image converter (OS X, Linux, Windows)](http://www.xnview.com/en/xnconvert/)
 * [Funtoshop - The GameBoy Camera's Photoshop (Windows)](http://funtoshop.sourceforge.net/)
-* [BitBOY - GameBoy Camera SD card image extract](http://bitcrush.camera/)
+* [BitBOY - GameBoy Camera SD card image extract](http://gameboyphoto.bigcartel.com/product/bitboy)
 * [andrew.uni.cx - Extraction software (OS X, Linux Windows)](http://andrew.uni.cx/camera.html)
 * [gieskes.nl - GBC .sav to animation converter (web)](http://gieskes.nl/gameboy-camera/sav-converter/)
 * [gieskes.nl - GameBoy Camera Video Output Tutorial](http://gb_camera_video_out_tutorial/)
@@ -55,3 +56,4 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 # Vendors
 * [Handheld Legend](http://handheldlegend.com/)
 * [Kitch-Bent](http://kitch-bent.com)
+* [BitBoy - GameBoy Camera Image SD card interface](http://gameboyphoto.bigcartel.com/product/bitboy)
