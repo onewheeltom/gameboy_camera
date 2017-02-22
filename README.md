@@ -2,6 +2,9 @@ The GameBoy Camera is a 4 bit greyscale camera made by Nintendo in 1998. Until r
 
 The GameBoy Camera gives you a different way of looking at the world…distilling it down to shapes and shading and showing the essence of the image. I hope you find this information useful.
 
+# New
+* [Creating Photorealistic Images with GBC and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
+
 # Art - Social Media
 * [Flickr - kusadenshi](https://www.flickr.com/photos/kusadenshi/albums/72157600923103239)
 * [Instagram : gameboycameraman](https://www.instagram.com/gameboycameraman/)
@@ -52,6 +55,9 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 * [GB Cart Flasher 1.3 for OS X](http://randombazz.blogspot.com/2011/08/gb-cart-flasher-software-13-for-mac-osx.html)
 * [gameboy.photography - Process GBC files (web)](http://www.gameboy.photography/)
 * [Handheld Legend - GameBoy Mods](http://handheldlegend.com/)
+
+# Tech
+* [Creating Photorealistic Images with GBC and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
 
 # Vendors
 * [Handheld Legend](http://handheldlegend.com/)
