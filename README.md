@@ -59,6 +59,7 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 # Tech
 * [Creating Photorealistic Images with GBC and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
 * [Arduino saves GameBoy Camera (Hackaday)](https://hackaday.com/2017/12/01/arduino-saves-gameboy-camera/)
+* [Arduino saves GameBoy Camera (original article)](http://briankhuu.com/projects/gameboy_camera_arduino/gameboy_camera_arduino.html)
 
 # Vendors
 * [Handheld Legend](http://handheldlegend.com/)
