@@ -65,4 +65,4 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 * [BitBoy - GameBoy Camera Image SD card interface](http://gameboyphoto.bigcartel.com/product/bitboy)
 
 # User Pages
-* [Pat Hawks] (http://alt.pathawks.com/gameboy-camera)
+* [Pat Hawks](http://alt.pathawks.com/gameboy-camera)
