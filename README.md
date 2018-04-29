@@ -41,9 +41,9 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 
 # Software
 * [GameBoy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
-* [Retrospecs (iOS)](https://itunes.apple.com/us/app/retrospecs-retro-computing/id887031094?mt=8)
-* [BitCam (iOS)](https://itunes.apple.com/us/app/bitcam/id1114990619?mt=8)
- 	[giibiiadvance - GB/GBC/GBA emulator with GB Camera support (Linux, Windows)](https://github.com/AntonioND/giibiiadvance)
+* [Retrospecs(iOS)](https://itunes.apple.com/us/app/retrospecs-retro-computing/id887031094?mt=8)
+* [BitCam(iOS)](https://itunes.apple.com/us/app/bitcam/id1114990619?mt=8)
+* [giibiiadvance - GB/GBC/GBA emulator with GB Camera support (Linux, Windows)](https://github.com/AntonioND/giibiiadvance)
 * [Xn Convert - Open source batch image converter (OS X, Linux, Windows)](http://www.xnview.com/en/xnconvert/)
 * [Funtoshop - The GameBoy Camera's Photoshop (Windows)](http://funtoshop.sourceforge.net/)
 * [BitBOY - GameBoy Camera SD card image extract](http://gameboyphoto.bigcartel.com/product/bitboy)
