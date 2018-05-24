@@ -4,6 +4,7 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 
 # New
 * [Creating Photorealistic Images with GBC and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
+* [4shadesofgrey page of Links (some broken)](http://www.4shadesofgray.com/gbclinks.html)
 
 # Art - Social Media
 * [Flickr - kusadenshi](https://www.flickr.com/photos/kusadenshi/albums/72157600923103239)
