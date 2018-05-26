@@ -5,6 +5,7 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 # New
 * [Creating Photorealistic Images with GBC and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
 * [4shadesofgrey page of Links (some broken)](http://www.4shadesofgray.com/gbclinks.html)
+* [CNet : GameBoy's $50 digital camera (1998)](https://www.cnet.com/news/game-boys-50-digital-camera/)
 
 # Art - Social Media
 * [Flickr - kusadenshi](https://www.flickr.com/photos/kusadenshi/albums/72157600923103239)
@@ -30,6 +31,7 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 * [Differences between Japanese and American GBC](https://tcrf.net/Game_Boy_Camera/Regional_Differences)
 
 # Media - Articles
+* [CNet : GameBoy's $50 digital camera (1998)](https://www.cnet.com/news/game-boys-50-digital-camera/)
 * [BitBOY : Rescue your GameBoy Camera Pictures (2015)](http://popgeeks.net/rescue-your-game-boy-camera-pictures-with-the-bitboy/)
 * [Hacking the Dead - Romi Nicole Schneider](http://www.rominicoleschneider.com/hacking-the-dead.html)
 * [Inside the Greatest Game Gadget That Never Was – USGamer (2015)](http://www.usgamer.net/articles/inside-the-greatest-game-gadget-that-never-was)
