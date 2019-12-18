@@ -1,6 +1,6 @@
 The GameBoy Camera is a 4 bit greyscale camera made by Nintendo in 1998. It has a resolution of 0.017 megapixels. Images can be manipulated with a variety of "magic" filters before they are captured.  
 
-The GameBoy Camera gives you a different way of looking at the world…distilling it down to shapes and shading and showing the essence of the image. I hope you find this information useful.
+It offers the photographer a different way of looking at the world…distilling it down to shapes and shading which show the essence of the image. Most of all, it is fun to use. I hope you find this information useful.
 
 # Image Transfer devices/software/information
 * [BitBOY GBCam standalone SD card image dumper](http://gameboyphoto.bigcartel.com/product/bitboy) - Plugs into the link port . Has a rechargeable battery and a SD card slot. "Printed" pictures appear as BMP files on the SD card
