@@ -2,7 +2,7 @@ The GameBoy Camera is a 4 bit greyscale camera made by Nintendo in 1998. It has 
 
 It offers the photographer a different way of looking at the world…distilling it down to shapes and shading which show the essence of the image. Most of all, it is fun to use. I hope you find this information useful.
 
-# Image Transfer devices/software/information
+# Image transfer devices and software
 * [BitBOY GBCam standalone SD card image dumper](http://gameboyphoto.bigcartel.com/product/bitboy) - Plugs into the link port . Has a rechargeable battery and a SD card slot. "Printed" pictures appear as BMP files on the SD card
 * [Wi-Fi Printer](https://www.etsy.com/listing/612978272/gameboy-camera-wifi-printer) - plugs into the link port. Photos are "printed" to the device, then are transferred via WiFi from a hotspot running on the device
 * [JOEY-JOEBAGS Reader/Writer Gen 3](https://bennvenn.myshopify.com/products/reader-writer-gen2) - a cartridge reader which extracts the camera memory to a file
