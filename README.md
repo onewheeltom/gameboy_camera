@@ -67,7 +67,7 @@ It offers the photographer a different way of looking at the world…distilling 
 * [GameBoy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
 * [GBCam cartridge protocol reversed,  all photos dumped (2016)](http://hackaday.com/2016/03/08/game-boy-camera-cartridge-reversed-photos-dumped)
 * [ArTi Cam - Use GBCam sensor with an Arduino to view images on a TI graphing calculator](https://www.cemetech.net/projects/item.php?id=54)
-* [GameBoy Camera "Eyeball" - Article in Robot Builder about the GBC image sensor](http://web.csulb.edu/~wmartinz/rssc/sites/default/files/newsletter/jun99.pdf)
+* [GameBoy Camera "Eyeball" ](http://web.csulb.edu/~wmartinz/rssc/sites/default/files/newsletter/jun99.pdf) - Article in Robot Builder about the GBC image sensor
 * [PC Serial interface for GBCam sensor](http://sophiateam.undrgnd.free.fr/microcontroller/camera/)
 
 # Vendors
