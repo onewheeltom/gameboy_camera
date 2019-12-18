@@ -23,14 +23,14 @@ It offers the photographer a different way of looking at the world…distilling 
 
 # Art - Photo Albums and articles
 * [Andrew.uni.cx](http://andrew.uni.cx/camera.html)
-* [Pictures by Tobias Apfelbaum] (http://gameboy.rot-blau.com/)
+* [Pictures by Tobias Apfelbaum](http://gameboy.rot-blau.com/)
 * [Dot Matrix Berlin](http://dotmatrixberlin.blogspot.com/)
 * ~~[Nullsleep](http://www.nullsleep.com/gb_gallery/)~~
 * [Cliff's Fotopage](http://cliff-greene.fotopages.com/?entry=198855)
 * [budmelvin.com](http://www.budmelvin.com/gb1.html)
 * [Hacking the Dead - Romi Nicole Schneider](http://www.rominicoleschneider.com/hacking-the-dead.html)
-* [Romi Nichole Schneider GameBoy Selfies] (https://www.rominicoles.com/gameboy-selfies)
-* [GameBoy Camera Color Photography Project] (http://www.ironicsans.com/2007/09/idea_color_photos_with_the_gam.html)
+* [Romi Nichole Schneider GameBoy Selfies](https://www.rominicoles.com/gameboy-selfies)
+* [GameBoy Camera Color Photography Project](http://www.ironicsans.com/2007/09/idea_color_photos_with_the_gam.html)
 
 # Media - General Info
 * [GameBoy Camera at Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Camera)
@@ -66,10 +66,10 @@ It offers the photographer a different way of looking at the world…distilling 
 * [GameBoy Mods and Music (Thretris)](http://thretris.blogspot.com/)
 * [GameBoy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
 * [GBCam cartridge protocol reversed,  all photos dumped (2016)](http://hackaday.com/2016/03/08/game-boy-camera-cartridge-reversed-photos-dumped)
-* [ArTi Cam - Use GBCam sensor with an Arduino to view images on a TI graphing calculator] (https://www.cemetech.net/projects/item.php?id=54)
-* [GameBoy Camera "Eyeball" - Article in Robot Builder about the GBC image sensor] (http://web.csulb.edu/~wmartinz/rssc/sites/default/files/newsletter/jun99.pdf)
+* [ArTi Cam - Use GBCam sensor with an Arduino to view images on a TI graphing calculator](https://www.cemetech.net/projects/item.php?id=54)
+* [GameBoy Camera "Eyeball" - Article in Robot Builder about the GBC image sensor](http://web.csulb.edu/~wmartinz/rssc/sites/default/files/newsletter/jun99.pdf)
 
-)* [PC Serial interface for GBCam sensor] (http://sophiateam.undrgnd.free.fr/microcontroller/camera/
+* [PC Serial interface for GBCam sensor](http://sophiateam.undrgnd.free.fr/microcontroller/camera/
 
 # Vendors
 * [Handheld Legend](http://handheldlegend.com/) DIY handheld gaming accessories like backlight kits
