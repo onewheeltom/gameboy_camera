@@ -44,31 +44,31 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 
 # Phone Apps
 * [Retrospecs(iOS) - pixel art image processing](https://itunes.apple.com/us/app/retrospecs-retro-computing/id887031094?mt=8)
-* [BitCam(iOS)- manipulate photos like the GameBoy Camera](https://itunes.apple.com/us/app/bitcam/id1114990619?mt=8)
-* [Hyperspectiv (iOS) - AMAZING photo and video manipulation](https://itunes.apple.com/us/app/hyperspektiv/id1058051662?mt=8)
+* [BitCam(iOS)- shoot bitmap photos like the GameBoy Camera](https://itunes.apple.com/us/app/bitcam/id1114990619?mt=8)
+* [Hyperspectiv(iOS) - AMAZING photo and video manipulation](https://itunes.apple.com/us/app/hyperspektiv/id1058051662?mt=8)
 
 # Software
 * [GameBoy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
 * [giibiiadvance - GB/GBC/GBA emulator with GB Camera support (Linux, Windows)](https://github.com/AntonioND/giibiiadvance)
 * [Xn Convert - Open source batch image converter (OS X, Linux, Windows)](http://www.xnview.com/en/xnconvert/)
 * [Funtoshop - The GameBoy Camera's Photoshop (Windows)](http://funtoshop.sourceforge.net/)
-* [BitBOY - GameBoy Camera SD card image extract](http://gameboyphoto.bigcartel.com/product/bitboy)
-* [andrew.uni.cx - Extraction software (OS X, Linux Windows)](http://andrew.uni.cx/camera.html)
-* [gieskes.nl - GBC .sav to animation converter (web)](http://gieskes.nl/gameboy-camera/sav-converter/)
-* [gieskes.nl - GameBoy Camera Video Output Tutorial](http://gieskes.nl/gb_camera_video_out_tutorial/)
-* [Thretris - Using GBCFLSH for OS X](http://thretris.blogspot.com/2009/12/how-to-using-gbcflsh-for-macosx.html)
-* [Thretris - GameBoy Mods and Music](http://thretris.blogspot.com/)
-* [GB Cart Flasher 1.3 for OS X](http://randombazz.blogspot.com/2011/08/gb-cart-flasher-software-13-for-mac-osx.html)
-* [gameboy.photography - Process GBC files (web)](http://www.gameboy.photography/)
-* [Handheld Legend - GameBoy Mods](http://handheldlegend.com/)
+* [BitBOY GBCam standalone SD card image dumper](http://gameboyphoto.bigcartel.com/product/bitboy)
+* [GBCam Extraction software (andrew.ubi.cx, OS X, Linux Windows)](http://andrew.uni.cx/camera.html)
+* [GBCam .sav to animation converter (gieskes.nl, web)](http://gieskes.nl/gameboy-camera/sav-converter/)
+* [GBCam Video Output Tutorial (gieskes.nl)](http://gieskes.nl/gb_camera_video_out_tutorial/)
+* [Using GBCFLSH for OS X (Thretris)](http://thretris.blogspot.com/2009/12/how-to-using-gbcflsh-for-macosx.html)
+* [GameBoy Mods and Music (Thretris)](http://thretris.blogspot.com/)
+* [GBCam Cart Flasher 1.3 for OS X](http://randombazz.blogspot.com/2011/08/gb-cart-flasher-software-13-for-mac-osx.html)
+* [Process GBCam files (gameboy.photography, web)](http://www.gameboy.photography/)
+* [GameBoy Mods (handheldlegend.com](http://handheldlegend.com/)
 
 # Tech
-* [Creating Photorealistic Images with GBC and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
+* [Creating Photorealistic Images with GBCam and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
 
 # Vendors
-* [Handheld Legend](http://handheldlegend.com/)
+* [Handheld Legend](http://handheldlegend.com/) DIY handheld gaming accessories like backlight kits
 * [Kitch-Bent](http://kitch-bent.com)
-* [BitBoy - GameBoy Camera Image SD card interface](http://gameboyphoto.bigcartel.com/product/bitboy)
+* [BitBoy - GameBoy Camera Image SD card interface](http://gameboyphoto.bigcartel.com/product/bitboy) - GBC image transfer device
 
 # User Pages
 * [Pat Hawks](http://alt.pathawks.com/gameboy-camera)
