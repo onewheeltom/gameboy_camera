@@ -5,7 +5,7 @@ It offers the photographer a different way of looking at the world…distilling 
 # Image Transfer devices/software/information
 * [BitBOY GBCam standalone SD card image dumper](http://gameboyphoto.bigcartel.com/product/bitboy) - Plugs into the link port . Has a rechargeable battery and a SD card slot. "Printed" pictures appear as BMP files on the SD card
 * [Wi-Fi Printer](https://www.etsy.com/listing/612978272/gameboy-camera-wifi-printer) - plugs into the link port. Photos are "printed" to the device, then are transferred via WiFi from a hotspot running on the device
-* [JOEY-JOEBAGS Reader/Writer Gen 3](https://bennvenn.myshopify.com/products/reader-writer-gen2)
+* [JOEY-JOEBAGS Reader/Writer Gen 3](https://bennvenn.myshopify.com/products/reader-writer-gen2) - a cartridge reader which extracts the camera memory to a file
 * [GBCam Extraction software (andrew.ubi.cx, OS X, Linux Windows)](http://andrew.uni.cx/camera.html)
 * [Process GBCam files (gameboy.photography, web)](http://www.gameboy.photography/)
 * [Using GBCFLSH for OS X (Thretris)](http://thretris.blogspot.com/2009/12/how-to-using-gbcflsh-for-macosx.html)
