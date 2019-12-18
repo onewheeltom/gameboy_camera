@@ -1,4 +1,4 @@
-The GameBoy Camera is a 4 bit greyscale camera made by Nintendo in 1998. Until recently, there were no easy ways to extract pictures from the camera. In October of 2015, the BitBoy was introduced, which “prints” images to an SD card. There is also a "WiFi Printer" linked below. Alternatively, a GameBoy cartridge reader can be used, which extracts the RAM file that contains the images.
+The GameBoy Camera is a 4 bit greyscale camera made by Nintendo in 1998. It has a resolution of 0.017 megapixels. Images can be manipulated with a variety of "magic" filters before they are captured.  
 
 The GameBoy Camera gives you a different way of looking at the world…distilling it down to shapes and shading and showing the essence of the image. I hope you find this information useful.
 
