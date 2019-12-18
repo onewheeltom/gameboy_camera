@@ -2,13 +2,17 @@ The GameBoy Camera is a 4 bit greyscale camera made by Nintendo in 1998. Until r
 
 The GameBoy Camera gives you a different way of looking at the world…distilling it down to shapes and shading and showing the essence of the image. I hope you find this information useful.
 
-# New
-* [Creating Photorealistic Images with GBC and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
-* [4shadesofgrey page of Links (some broken)](http://www.4shadesofgray.com/gbclinks.html)
-* [CNet : GameBoy's $50 digital camera (1998)](https://www.cnet.com/news/game-boys-50-digital-camera/)
+# GBCam Image Transfer
+* [BitBOY GBCam standalone SD card image dumper](http://gameboyphoto.bigcartel.com/product/bitboy)
+* [GBCam Extraction software (andrew.ubi.cx, OS X, Linux Windows)](http://andrew.uni.cx/camera.html)
+* [Process GBCam files (gameboy.photography, web)](http://www.gameboy.photography/)
+* [Using GBCFLSH for OS X (Thretris)](http://thretris.blogspot.com/2009/12/how-to-using-gbcflsh-for-macosx.html)
+* [GBCam .sav to animation converter (gieskes.nl, web)](http://gieskes.nl/gameboy-camera/sav-converter/)
+* [GBCam Video Output Tutorial (gieskes.nl)](http://gieskes.nl/gb_camera_video_out_tutorial/)
+* [GBCam Cart Flasher 1.3 for OS X](http://randombazz.blogspot.com/2011/08/gb-cart-flasher-software-13-for-mac-osx.html)
 
 # Art - Social Media
-* [Flickr - kusadenshi](https://www.flickr.com/photos/kusadenshi/albums/72157600923103239)
+* [Flickr : kusadenshi](https://www.flickr.com/photos/kusadenshi/albums/72157600923103239)
 * [Instagram : gameboycameraman](https://www.instagram.com/gameboycameraman/)
 * [Instagram : gameboyphoto](https://instagram.com/gameboyphoto/)
 * [Instagram : mt_gameboycamera](https://www.instagram.com/mr_gameboycamera/)
@@ -27,8 +31,8 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 * [BitBoy Manual](http://gameboyphoto.com/gameboyphoto/gameboy_process_resources_files/BitBoy_Manual_V6-3.pdf)
 * [GBC Funtography Guide (scanned PDF)](http://www.mediafire.com/view/lyk0co0l4bwq2ld/Nintendo_Funtography_Guide.pdf)
 * [Idiot’s Guide to Funtography](http://www.dmgice.com/rules/camidiot.htm)
-* [GameBoy Camera cartridge protocol reversed,  all photos dumped (2016)](http://hackaday.com/2016/03/08/game-boy-camera-cartridge-reversed-photos-dumped)
 * [Differences between Japanese and American GBC](https://tcrf.net/Game_Boy_Camera/Regional_Differences)
+* [4shadesofgrey page of Links (some broken)](http://www.4shadesofgray.com/gbclinks.html)
 
 # Media - Articles
 * [CNet : GameBoy's $50 digital camera (1998)](https://www.cnet.com/news/game-boys-50-digital-camera/)
@@ -48,27 +52,20 @@ The GameBoy Camera gives you a different way of looking at the world…distillin
 * [Hyperspectiv(iOS) - AMAZING photo and video manipulation](https://itunes.apple.com/us/app/hyperspektiv/id1058051662?mt=8)
 
 # Software
-* [GameBoy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
 * [giibiiadvance - GB/GBC/GBA emulator with GB Camera support (Linux, Windows)](https://github.com/AntonioND/giibiiadvance)
 * [Xn Convert - Open source batch image converter (OS X, Linux, Windows)](http://www.xnview.com/en/xnconvert/)
 * [Funtoshop - The GameBoy Camera's Photoshop (Windows)](http://funtoshop.sourceforge.net/)
-* [BitBOY GBCam standalone SD card image dumper](http://gameboyphoto.bigcartel.com/product/bitboy)
-* [GBCam Extraction software (andrew.ubi.cx, OS X, Linux Windows)](http://andrew.uni.cx/camera.html)
-* [GBCam .sav to animation converter (gieskes.nl, web)](http://gieskes.nl/gameboy-camera/sav-converter/)
-* [GBCam Video Output Tutorial (gieskes.nl)](http://gieskes.nl/gb_camera_video_out_tutorial/)
-* [Using GBCFLSH for OS X (Thretris)](http://thretris.blogspot.com/2009/12/how-to-using-gbcflsh-for-macosx.html)
-* [GameBoy Mods and Music (Thretris)](http://thretris.blogspot.com/)
-* [GBCam Cart Flasher 1.3 for OS X](http://randombazz.blogspot.com/2011/08/gb-cart-flasher-software-13-for-mac-osx.html)
-* [Process GBCam files (gameboy.photography, web)](http://www.gameboy.photography/)
-* [GameBoy Mods (handheldlegend.com](http://handheldlegend.com/)
 
 # Tech
 * [Creating Photorealistic Images with GBCam and neural networks](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
+* [GameBoy Mods and Music (Thretris)](http://thretris.blogspot.com/)
+* [GameBoy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
+* [GameBoy Camera cartridge protocol reversed,  all photos dumped (2016)](http://hackaday.com/2016/03/08/game-boy-camera-cartridge-reversed-photos-dumped)
+
 
 # Vendors
 * [Handheld Legend](http://handheldlegend.com/) DIY handheld gaming accessories like backlight kits
-* [Kitch-Bent](http://kitch-bent.com)
-* [BitBoy - GameBoy Camera Image SD card interface](http://gameboyphoto.bigcartel.com/product/bitboy) - GBC image transfer device
+* [Kitch-Bent](http://kitch-bent.com) DIY GameBoy parts, backlight kits, accessories
 
 # User Pages
 * [Pat Hawks](http://alt.pathawks.com/gameboy-camera)
